@@ -1,0 +1,2 @@
+# deformed-exponentials-linear-units-DELUS-
+Repository for my new paper,《More accurate and faster deep network Learning by deformed exponentials linear units(DELUS)》Activation function is the pivotal component of deep neural networks. In this repository, we introduce the deformed exponential function  and  learnable parameters into the ELUs  to combine the advantages resulting to bring benefits to the classification performance and the convergence of deep networks
