@@ -17,16 +17,4 @@ message PNELUParameter {
   //optional float namda = 4 [default = 1.051];
 }
 
-layer {
-  name: "relu7"
-  type: "PNELU"
-  bottom: "fc7"
-  top: "fc7"
-  param { lr_mult: 0.1 decay_mult: 0 }
-  pnelu_param {
-   t:30.0
-   filler: { type: "constant" value:0.6 } 
-   channel_shared: false    
-  }
-}
 ```
