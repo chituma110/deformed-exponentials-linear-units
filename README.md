@@ -1,4 +1,5 @@
 # deformed-exponentials-linear-units-DELUS-
+I will released the code once my paper is recieved.
 Repository for my new paper,《PDELU: Parametric Deformable Exponentials Linear Units》Activation function is the pivotal component of deep neural networks. In this repository, we introduce the deformed exponential function  and  learnable parameters into the ELUs  to combine the advantages resulting to bring benefits to the classification performance and the convergence of deep networks
 
 ## Usage
